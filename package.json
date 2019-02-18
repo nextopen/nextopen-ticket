@@ -1,0 +1,17 @@
+{
+  "name": "openpticket",
+  "version": "1.0.0",
+  "description": "OpenSource Ticket System",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "file-system": "^2.2.2",
+    "superagent": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NextOpen",
+  "license": "Apache-2.0"
+}
